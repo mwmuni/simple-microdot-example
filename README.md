@@ -14,7 +14,7 @@ poetry install
 ## Usage
 Run the script using:
 ```bash
-poetry run python simple-microdot-example/simple_microdot_example.py
+poetry run python simple_microdot_example/index.py
 ```
 This will execute the example code, showcasing microdot’s capabilities alongside matplotlib and numpy.
 
